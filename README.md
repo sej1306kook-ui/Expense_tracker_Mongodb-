@@ -20,9 +20,8 @@ Python + MongoDB CLI project to track daily expenses with CRUD operations, month
 
   ## Project Structure
 expense_tracker/
-- `main.py` — Main CLI program  
-- `utils_ex.py` — Utility functions (formatting and error handling)  
-- `ex_db.py` — MongoDB URI and connection  
+- `expense_tracker_mongodb.py` — Main CLI program  
+- `utils_ex.py` — Utility functions (formatting and error handling)    
 - `README.md` — Project documentation  
 - `requirements.txt` — Required Python libraries
 
