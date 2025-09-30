@@ -19,7 +19,7 @@ Python + MongoDB CLI project to track daily expenses with CRUD operations, month
   - `traceback`
 
   ## Project Structure
-expense_tracker/
+  
 - `expense_tracker_mongodb.py` — Main CLI program  
 - `utils_ex.py` — Utility functions (formatting and error handling)    
 - `README.md` — Project documentation  
@@ -27,7 +27,7 @@ expense_tracker/
 
 ## Setup
 **Clone the repository:**  
-  - git clone: 
+  - git clone: https://github.com/sej1306kook-ui/Expense_tracker_Mongodb-
 - **Install dependencies:**
 `pip install -r requirements.txt`
 - **Run the project:**
@@ -36,7 +36,7 @@ expense_tracker/
 ## Usage
 **Run the project:**
    `python main.py`
-**Choose an option from the main menu:**
+### Choose an option from the main menu:
 - View all expenses – `See all recorded expenses.`
 - Add an expense – `Enter amount, category, description, and date.`
 - View monthly expense – `Enter month and year (YYYY-MM) to see total for that month.`
@@ -45,3 +45,8 @@ expense_tracker/
 - Delete an expense – `Provide the ID of the expense to delete.`
 - Exit the app – `Quit the program.`
 
+## License
+ **MIT License**
+
+ ## Author 
+  **Sejal**
