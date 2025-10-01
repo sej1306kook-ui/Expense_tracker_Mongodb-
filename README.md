@@ -27,17 +27,17 @@
 ## Setup
 
 1. ### Clone the repository:
-    **Github repository:** https://github.com/sej1306kook-ui/Expense_tracker_Mongodb-
+ - **Github repository:** https://github.com/sej1306kook-ui/Expense_tracker_Mongodb-
       
-     Or via terminal
+      - Or via terminal
        
-   **git clone:** `https://github.com/sej1306kook-ui/Expense_tracker_Mongodb-.git`<br>
+  - **git clone:** `https://github.com/sej1306kook-ui/Expense_tracker_Mongodb-.git`<br>
    
      `cd Expense_tracker_Mongodb-`
 2. ### Install dependencies:
-    - `pip install -r requirements.txt`
+ -  `pip install -r requirements.txt`
 3. ### Run the project:
-    - `python expense_tracker_mongodb.py`
+ - `python expense_tracker_mongodb.py`
 
 ## Usage
 **Run the project:**
